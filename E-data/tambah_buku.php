@@ -12,15 +12,15 @@
     <style>
       body {
         overflow-x: hidden;
-        background-color: #EFF6FD;
+        background-color: #00FF00;
         font-family: 'Nunito Sans', sans-serif;
       }
       h1 {
-          color: #363A43;
+          color: #00FF00;
           font-weight: 800;
       }
       p {
-          color: #75787E;
+          color: #00FF00;
           padding-top: 3%;
       }
     </style>
